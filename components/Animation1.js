@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, Animated, TouchableHighlight, Image } from 'react-native';
 
-const mario = { uri: "https://media.moddb.com/images/mods/1/27/26251/com.MemoryMakers.SuperMarioHD.png"};
+const mario = { uri: "https://raw.githubusercontent.com/e-burgos/react-native-animated/master/assets/img/mario.png"};
 
 const Animation1 = () => {
 

@@ -7,7 +7,7 @@ import Animation3 from './components/Animation3';
 import Animation4 from './components/Animation4';
 import Animation5 from './components/Animation5';
 
-const mainBg = { uri: "https://i.pinimg.com/originals/7b/60/c0/7b60c0e5e9f0168cd0889bae9a72b460.gif" };
+const mainBg = { uri: "https://raw.githubusercontent.com/e-burgos/react-native-animated/master/assets/img/bg.gif" };
 
 const App = () => {
   return (
